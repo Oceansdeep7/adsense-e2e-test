@@ -1,1 +1,1 @@
-# adsense-puppeteer
+# e2e test for google adsense
